@@ -25,12 +25,12 @@ const OPTIONS: Option[] = [
   {
     id: 3,
     title: "Opción 3",
-    description: "Forks",
+    description: "Provocando conflictos",
     message:
       "Un fork es una copia de un repositorio en tu cuenta. Puedes proponer cambios al original mediante un Pull Request.",
     featureFlag: true,
   },
-  // Añade aquí la Opción 4 durante la clase:
+  // Añade aquí la Opción 4 durante la clase:c
   // {
   //   id: 4,
   //   title: 'Opción 4',
